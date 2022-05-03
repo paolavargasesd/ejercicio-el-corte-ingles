@@ -31,7 +31,7 @@
   }
   
   .promotion-card__label {
-    background-image: url();
+    background-image: url(/assets/label01.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;

@@ -36,7 +36,7 @@
     text-align: center;
     flex-direction: column;
     text-decoration: none;
-    color: var(--green);
+    color: green;
   }
   .footer-product span {
     margin-top: 2%;
@@ -78,7 +78,7 @@
   .footer-modules__card {
     display: flex;
     flex-direction: column;
-    background-image: url();
+    background-image: url(/assets/img_pymes.jpg);
     background-position: center;
     background-size: cover;
     width: 32%;
@@ -126,7 +126,7 @@
     left: 0;
   }
   .footer-modules__card-black {
-    background-image: url();
+    background-image: url(/assets/img_camp_area_usuario_911x170.jpg);
   }
   .footer-modules__card-black h3 {
     margin-top: 6%;
@@ -331,7 +331,7 @@
       margin-bottom: 2%;
     }
     .footer-modules__card:last-of-type {
-      background-image: url();
+      background-image: url(/assets/img_camp_area_usuario_911x170.jpg);
       width: 100%;
     }
     .footer-modules__card-black h3 {
